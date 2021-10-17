@@ -1,5 +1,5 @@
 {
-  "name": "dockerode",
+  "name": "@priithaamer/dockerode",
   "description": "Docker Remote API module.",
   "version": "3.3.1",
   "author": "Pedro Dias <petermdias@gmail.com>",
@@ -15,7 +15,7 @@
     "docker.io"
   ],
   "dependencies": {
-    "docker-modem": "^3.0.0",
+    "@priithaamer/docker-modem": "^3.0.0",
     "tar-fs": "~2.0.1"
   },
   "devDependencies": {
